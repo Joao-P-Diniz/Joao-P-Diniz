@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  React, Vue.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me
-- **Email:** [joaopedrodiniz@gmail.com)
+- **Email:** [joaopedrodiniz058@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/jo%C3%A3o-pedro-diniz-1482602a3/)
 
 
