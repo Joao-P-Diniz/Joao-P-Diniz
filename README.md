@@ -23,3 +23,7 @@ Me chamo João Pedro Diniz, tenho 28 anos e sou apaixonado por desenvolvimento w
 <br/>
 <br/>
 
+---
+
+- ![Image](https://github.com/user-attachments/assets/ee7a3a8d-1e5a-40e3-8505-9fa89c5ceee6 )
+
