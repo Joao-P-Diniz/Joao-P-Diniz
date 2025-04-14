@@ -24,6 +24,31 @@ Me chamo João Pedro Diniz, tenho 28 anos e sou apaixonado por desenvolvimento w
 <br/>
 
 ---
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Joao-P-Diniz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-P-Diniz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
 
 - ![Image](https://github.com/user-attachments/assets/ee7a3a8d-1e5a-40e3-8505-9fa89c5ceee6 )
+
 
